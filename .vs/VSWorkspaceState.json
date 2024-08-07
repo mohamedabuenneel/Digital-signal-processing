@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DSPToolbox",
+    "\\DSPToolbox\\DSPComponents",
+    "\\DSPToolbox\\DSPComponents\\Algorithms"
+  ],
+  "SelectedNode": "\\DSPToolbox\\DSPComponents\\Algorithms\\DiscreteFourierTransform.cs",
+  "PreviewInSolutionExplorer": false
+}
